@@ -2,7 +2,7 @@
 
 A simple TLS-secured server that allows remote monitoring of system information via the /proc filesystem.
 All communication is encrypted using TLS 1.3.It can work without root privileges!
-## DISCLEIMER!!!
+## DISCLEIMER!!!!
 This project is for educational and demonstration purposes only!!!
 It intentionally disables certificate verification on the client side and exposes system data without authentication.
 Do NOT use in real environments without proper hardening.
