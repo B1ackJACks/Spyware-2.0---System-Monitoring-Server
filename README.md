@@ -1,4 +1,4 @@
-# Spyware 2.0 - System Monitoring Server
+# Spyware 2.0 - System Monitoring Server.
 
 A simple TLS-secured server that allows remote monitoring of system information via the /proc filesystem.
 All communication is encrypted using TLS 1.3.It can work without root privileges!
